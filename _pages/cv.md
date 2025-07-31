@@ -13,7 +13,7 @@ You can find my CV here: [Shu-xuan's Curriculum_Vitae](../assets/Shu-xuan's Curr
 
 Education
 ======
-* M.S. in College of Physics, Qingdao University, 2022.8-2025.6
+* M.S. in College of Physics, Qingdao University, 2022.8-2025.6 
 * B.S. in School of Physical and Mathematical sciences, Nanjing tech University, 2017.9-2021.6
 
 
