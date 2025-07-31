@@ -9,13 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV here: [Jia-yin's Curriculum_Vitae](../assets/Jia-yin's Curriculum_Vitae.pdf).
+You can find my CV here: [Shu-xuan's Curriculum_Vitae](../assets/Shu-xuan's Curriculum_Vitae.pdf).
 
 Education
 ======
-* Ph.D student in College of the Environment & Ecology , Xiamen University, 2024.8-now
-* M.S. in College of Environmental Science and Engineering, Ocean University of China, 2021.8-2024.6
-* B.S. in College of Environmental Science and Engineering, Nanjing tech University, 2017.9-2021.6
+* M.S. in College of Physics, Qingdao University, 2022.8-2025.6
+* B.S. in School of Physical and Mathematical sciences, Nanjing tech University, 2017.9-2021.6
 
 
 Publications
